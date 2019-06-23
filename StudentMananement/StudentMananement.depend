@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1561011265 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SysMan.h"
+	"StudentManage.h"
+	"ClassMessMan.h"
+	"ChooseCor.h"
+
+1561010583 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\sysman.h
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1560856565 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\studentmanage.c
+	"StudentManage.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+
+1561016713 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\sysman.c
+	"SysMan.h"
+	<stdio.h>
+	<stdlib.h>
+
+1560856564 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\studentmanage.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<string.h>
+	"SysMan.h"
+
+1560993519 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\classmessman.c
+	"ClassMessMan.h"
+	<stdio.h>
+	<stdlib.h>
+
+1560861216 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\classmessman.h
+	<string.h>
+	<stdio.h>
+	"SysMan.h"
+
+1560977599 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\choosecor.c
+	"SysMan.h"
+	"ChooseCor.h"
+
+1560976931 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\choosecor.h
+	"SysMan.h"
+	"StudentManage.h"
+	"ClassMessMan.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561002808 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\grademessman.c
+	"GradeMessMan.h"
+
+1560979267 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\grademessman.h
+	<stdio.h>
+	<stdlib.h>
+	"ChooseCor.h"
+	"SysMan.h"
+
+1561017726 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\messinquire.c
+	"MessInquire.h"
+
+1561016350 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement\messinquire.h
+	"SysMan.h"
+	"ChooseCor.h"
+
+1561037285 source:c:\users\dell\desktop\studentmananement\choosecor.c
+	"SysMan.h"
+	"ChooseCor.h"
+
+1561010583 c:\users\dell\desktop\studentmananement\sysman.h
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1560976931 c:\users\dell\desktop\studentmananement\choosecor.h
+	"SysMan.h"
+	"StudentManage.h"
+	"ClassMessMan.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1560856564 c:\users\dell\desktop\studentmananement\studentmanage.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<string.h>
+	"SysMan.h"
+
+1560861216 c:\users\dell\desktop\studentmananement\classmessman.h
+	<string.h>
+	<stdio.h>
+	"SysMan.h"
+
+1560993519 source:c:\users\dell\desktop\studentmananement\classmessman.c
+	"ClassMessMan.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561037335 source:c:\users\dell\desktop\studentmananement\grademessman.c
+	"GradeMessMan.h"
+
+1560979267 c:\users\dell\desktop\studentmananement\grademessman.h
+	<stdio.h>
+	<stdlib.h>
+	"ChooseCor.h"
+	"SysMan.h"
+
+1561011265 source:c:\users\dell\desktop\studentmananement\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SysMan.h"
+	"StudentManage.h"
+	"ClassMessMan.h"
+	"ChooseCor.h"
+
+1561037393 source:c:\users\dell\desktop\studentmananement\messinquire.c
+	"MessInquire.h"
+
+1561016350 c:\users\dell\desktop\studentmananement\messinquire.h
+	"SysMan.h"
+	"ChooseCor.h"
+
+1560856565 source:c:\users\dell\desktop\studentmananement\studentmanage.c
+	"StudentManage.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+
+1561037375 source:c:\users\dell\desktop\studentmananement\sysman.c
+	"SysMan.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561037285 source:c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\choosecor.c
+	"SysMan.h"
+	"ChooseCor.h"
+
+1561010583 c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\sysman.h
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1560976931 c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\choosecor.h
+	"SysMan.h"
+	"StudentManage.h"
+	"ClassMessMan.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1560856564 c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\studentmanage.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<string.h>
+	"SysMan.h"
+
+1560861216 c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\classmessman.h
+	<string.h>
+	<stdio.h>
+	"SysMan.h"
+
+1560993519 source:c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\classmessman.c
+	"ClassMessMan.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561037335 source:c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\grademessman.c
+	"GradeMessMan.h"
+
+1560979267 c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\grademessman.h
+	<stdio.h>
+	<stdlib.h>
+	"ChooseCor.h"
+	"SysMan.h"
+
+1561011265 source:c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SysMan.h"
+	"StudentManage.h"
+	"ClassMessMan.h"
+	"ChooseCor.h"
+
+1561037393 source:c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\messinquire.c
+	"MessInquire.h"
+
+1561016350 c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\messinquire.h
+	"SysMan.h"
+	"ChooseCor.h"
+
+1560856565 source:c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\studentmanage.c
+	"StudentManage.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+
+1561037375 source:c:\users\dell\desktop\studentmananement成品2019年6月20日21点31分\sysman.c
+	"SysMan.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561169796 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\choosecor.c
+	"SysMan.h"
+	"ChooseCor.h"
+
+1561010583 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\sysman.h
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1560976931 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\choosecor.h
+	"SysMan.h"
+	"StudentManage.h"
+	"ClassMessMan.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1560856564 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\studentmanage.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<string.h>
+	"SysMan.h"
+
+1560861216 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\classmessman.h
+	<string.h>
+	<stdio.h>
+	"SysMan.h"
+
+1560993519 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\classmessman.c
+	"ClassMessMan.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561037335 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\grademessman.c
+	"GradeMessMan.h"
+
+1560979267 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\grademessman.h
+	<stdio.h>
+	<stdlib.h>
+	"ChooseCor.h"
+	"SysMan.h"
+
+1561011265 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SysMan.h"
+	"StudentManage.h"
+	"ClassMessMan.h"
+	"ChooseCor.h"
+
+1561162437 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\messinquire.c
+	"MessInquire.h"
+
+1561016350 c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\messinquire.h
+	"SysMan.h"
+	"ChooseCor.h"
+
+1560856565 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\studentmanage.c
+	"StudentManage.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+
+1561037375 source:c:\users\dell\desktop\c++\c语言程序设计作业\认知实验\studentmananement成品2019年6月20日21点31分\sysman.c
+	"SysMan.h"
+	<stdio.h>
+	<stdlib.h>
+
