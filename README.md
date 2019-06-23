@@ -11,6 +11,8 @@ My experimental class work as a university freshman student.(2019/6/23)
 
 
 ## 接下来是简介，介绍相对样例程序的优缺点
+
+
  **优点**
 
  *添加了delayexit()函数，使得退出过程更缓和，界面更友好
@@ -26,8 +28,8 @@ My experimental class work as a university freshman student.(2019/6/23)
  *在输入结束和另一项输入开始之间刷新缓冲区，大大提高容错率
 
  *自定义了qsort的排序方式，除了将平均分按从大到小排序，还会将选课数为0的同学排在最后面
+ 
 
- *
  **缺点**
  *动手前没有详细计划好，代码重复率较高
 
