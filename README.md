@@ -31,6 +31,8 @@ My experimental class work as a university freshman student.(2019/6/23)
  
 
  **缺点**
+ 
+
  *动手前没有详细计划好，代码重复率较高
 
  *体积是样例程序的1.3倍
